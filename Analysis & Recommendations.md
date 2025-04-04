@@ -95,23 +95,24 @@
 
 
 # 2. Recommendations
-- Existing Strategy has increased Ride Volumes Significantly
+## 2.1 Existing Strategy has increased Ride Volumes Significantly
 - Median Rides in 2011 were 111, they increased to 199 in 2012
 - There has been high improvement in Year-wise Ride Volumes, so existing strategies are working good
-- Ride Volumes are Highly Seasonal with Months
-- Customers are preferring Rides in specific Temperature and Weather conditions
-- As temperature rises to Very Hot, there is significant impact on ride Volumes
-- As Temperature drops to Cold or very Cold, Ride Volumes sharply drop
-- Overall, Ride Volumes and consequently revenues will be seasonal
-- Leverage Casual Rides when Ride Volumes are low
-- Trend plot suggested that in the past 2 years, there has not been much change in Casual Rides 
-- As only 18.8% rides are Casual, these can be more promoted, especially in off-season time to leverage more Volumes.
-- Customers prefer casual rides in Afternoon and Late Morning, this can be promoted as Casual rides share a very low Volume.
-- Early Morning and Late Night receive negligible rides (less than 3%)	
-- Overall, Casual Rides can be promoted to leverage increased ride volumes during off-season, off-hours and weekends, as Casual Rides contribute more for these cases.
-- Introduce Surge Charges
-- Introducing premium charges on High Volume days can significantly increase revenues
-- Best Events for charging Premiums
-- Weather 1 (contributes to more than 70% of Ride Volumes) 
-- Hot Temperature days
-- Holidays on Weekdays, except Friday
+
+## 2.2 Ride Volumes are Highly Seasonal with Months
+  - Customers are preferring Rides in specific Temperature and Weather conditions
+  - As temperature rises to Very Hot, there is significant impact on ride Volumes
+  - As Temperature drops to Cold or very Cold, Ride Volumes sharply drop
+  - Overall, Ride Volumes and consequently revenues will be seasonal
+## 2.3 Leverage Casual Rides when Ride Volumes are low
+  - Trend plot suggested that in the past 2 years, there has not been much change in Casual Rides 
+  - As only 18.8% rides are Casual, these can be more promoted, especially in off-season time to leverage more Volumes.
+  - Customers prefer casual rides in Afternoon and Late Morning, this can be promoted as Casual rides share a very low Volume.
+  - Early Morning and Late Night receive negligible rides (less than 3%)	
+  - Overall, Casual Rides can be promoted to leverage increased ride volumes during off-season, off-hours and weekends, as Casual Rides contribute more for these cases.
+## 2.4 Introduce Surge Charges
+  - Introducing premium charges on High Volume days can significantly increase revenues
+  - Best Events for charging Premiums
+    - Weather 1 (contributes to more than 70% of Ride Volumes) 
+    - Hot Temperature days
+    - Holidays on Weekdays, except Friday
